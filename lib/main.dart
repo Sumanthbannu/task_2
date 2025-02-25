@@ -76,7 +76,6 @@ class _HomeState extends State<Home> {
               ),
             ),
 
-            // Expired Pack Card
             Container(
               margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               padding: const EdgeInsets.all(16),
@@ -126,7 +125,6 @@ class _HomeState extends State<Home> {
               ),
             ),
 
-            // Recharge Alert
             Container(
               margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               padding: const EdgeInsets.all(12),
@@ -152,7 +150,6 @@ class _HomeState extends State<Home> {
               ),
             ),
 
-            // App Exclusive Offer
             Container(
               margin:  EdgeInsets.symmetric(horizontal: 16, vertical: 8),
               padding:  EdgeInsets.all(16),
